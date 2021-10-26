@@ -14,3 +14,4 @@ int main()
     //retorna para o sistema opercaional zero
     //zero é o padrão para informa que tudo deu certo, assim se a função main de certo, então ela retornara
 }//indica o fim de um bloco
+
