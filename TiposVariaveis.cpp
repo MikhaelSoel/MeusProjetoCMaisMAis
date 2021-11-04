@@ -26,5 +26,9 @@ int main()
     std::cout << " Tamanho da variavel numero: " << sizeof(caracter2) << "\n";
     std::cout << " Endereço da memoria: " << (void*)&caracter2 << "\n";
 
+
+
+
+
     system("PAUSE");
 }
