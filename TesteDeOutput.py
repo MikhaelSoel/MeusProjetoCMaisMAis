@@ -1,2 +1,1 @@
-tantofaz = input("Digita algo: ")
-print(tantofaz)
+print("Olá mundo")
