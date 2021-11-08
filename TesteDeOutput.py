@@ -1,1 +1,2 @@
-print("Olá mundo")
+teste = input("Digite: ")
+print(teste)
